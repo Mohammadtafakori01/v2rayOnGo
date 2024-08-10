@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Go application that provides an API endpoint to create a configuration. The application is containerized using Docker for easy deployment.
+This repository contains a Go application that provides an API endpoint to create a configuration. 
 
 ## Features
 
